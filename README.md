@@ -1,3 +1,5 @@
+Game version 1.12.2
+
 Immsersive Engineering cloche now can grow fruits in harvestcraft.Require crafttweaker and zencloche.
 Put "pamsaplings.zs" into .minecraft/scripts
 
